@@ -1,1 +1,1 @@
-TinDog Starting Files
+A conceptual website built using pure HTML, CSS & Bootstrap
