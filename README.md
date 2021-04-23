@@ -1,1 +1,2 @@
-A conceptual website built using pure HTML, CSS & Bootstrap
+A conceptual website - tinder for dogs ;) 
+Built using pure HTML, CSS & Bootstrap
